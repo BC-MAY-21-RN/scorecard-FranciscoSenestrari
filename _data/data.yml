@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Francisco Jose Senestrari # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
+  email: fran.senes@gmail.com
   phone:
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: www.linkedin.com/in/francisco-senestrari/
+  github: github.com/FranciscoSenestrari
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@fransenestrari'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,12 +27,12 @@ sidebar:
   # Actualiza según los idiomas y niveles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Colloquial # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
+    - idiom: Portugues
       level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
@@ -43,99 +43,72 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Creativity
+      link: # dejar en blanco
+      
+    - item: Attention to detail
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    am a former systems engineering student. I was part of research projects at the university to create new services for it.
+    Work as a jr developer in a company dedicated to package delivery.
+    I was also an artist and cartoonist for content creators and architects. My skills range from development to 3d modeling and drawing
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Systems Engineering
+    university: Universidad Catolica de Cordoba
+    time: 2011 May - 2019
     details: |
+        Systems Engineering
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: JR developer
+    time: may/2017 - agust/2017
+    company: Rapiboy, Argentina
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      I was a junior developer for the maintenance and restructuring of an android 
+      application for the company where my main activities were to identify the design 
+      and structure flaws for the restructuring and also to identify possible incorporations 
+      of its functionalities.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: 3d Artist
+    time: 2020 - 2022
+    company: Freelance
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      I was a 3d modeler and designer for architects and content creators,
+      designing and modeling from virtual tours, 
+      realistic renders to designing and modeling 3d characters for streamers.
       
 # Registra aquí los proyectos en los que has participado
 projects:
     title: Projects
     
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: IOT
+        link: "https://github.com/FranciscoSenestrari/IOT-TP"
+        tagline: "IOT web server develop."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: CentroInvestigacionUCC
+        link: "https://github.com/FranciscoSenestrari/PruebaVolley"
+        tagline: "Testing framwork for android develop for university."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: NodeServer
+        link: "https://github.com/FranciscoSenestrari/iot"
+        tagline: "Node server to turn on RGB Leds."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: AQS
+        link: "https://github.com/FranciscoSenestrari/AQS"
+        tagline: "Message system  on .net server ."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: TrheeJsWallpaper
+        link: "https://github.com/FranciscoSenestrari/threejs"
+        tagline: "Dynamic wallpaper made with  js and 3d model"
         
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -147,23 +120,20 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
+    - name: Java
       level: 20%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: C#
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: JavaScrip
+      level: 60%
+
+    - name: NodeJs
+      level: 40%
 
     - name: C/C++
-      level: 40%
+      level: 80%
 
 # NO MODIFICAR
 footer: >
